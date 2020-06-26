@@ -217,7 +217,7 @@ for epoch in range(totalEpoch):
 
     # prepare submission file
     df = pd.DataFrame(data={"Id": collectDataName, "Predicted": collectTestResult})
-    df.to_csv("./firstTrialSub.csv", sep=',', index=False)
+    df.to_csv("./ForthTrialSub.csv", sep=',', index=False)
     print('######################################')
 
 
