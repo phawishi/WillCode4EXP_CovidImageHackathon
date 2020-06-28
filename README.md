@@ -43,8 +43,6 @@ conda install -c conda-forge opencv matplotlib scikit-image
 
 <strong>compete__All</strong> are data folders without any class label. The unorganized folders are easier to load in some scripts.
 
-<strong>covidCompetition_presentation.pptx</strong> contain slides use for the Hackathon presentation.
-
 All the data has been manually crop to focus more on chest area.
 
 ## Usage
